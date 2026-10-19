@@ -117,7 +117,7 @@ namespace KiddEsports {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/KiddEsports;component/eventsscreen.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KiddEsports;V1.0.0.0;component/eventsscreen.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\EventsScreen.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

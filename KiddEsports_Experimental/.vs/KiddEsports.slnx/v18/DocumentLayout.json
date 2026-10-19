@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42AC0B9F-9CF7-CF2A-DEC5-00BBDE39D0EF}|KiddEsports\\KiddEsports.csproj|c:\\users\\xaron\\desktop\\kiddesportsrepo\\kiddesports_experimental\\kiddesports\\gamesscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC0B9F-9CF7-CF2A-DEC5-00BBDE39D0EF}|KiddEsports\\KiddEsports.csproj|solutionrelative:kiddesports\\gamesscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6A683A-4178-4F0E-925D-6DC087B9234F}|DataManagement\\DataManagement.csproj|c:\\users\\xaron\\desktop\\kiddesportsrepo\\kiddesports_experimental\\datamanagement\\models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6A683A-4178-4F0E-925D-6DC087B9234F}|DataManagement\\DataManagement.csproj|solutionrelative:datamanagement\\models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6A683A-4178-4F0E-925D-6DC087B9234F}|DataManagement\\DataManagement.csproj|c:\\users\\xaron\\desktop\\kiddesportsrepo\\kiddesports_experimental\\datamanagement\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6A683A-4178-4F0E-925D-6DC087B9234F}|DataManagement\\DataManagement.csproj|solutionrelative:datamanagement\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42AC0B9F-9CF7-CF2A-DEC5-00BBDE39D0EF}|KiddEsports\\KiddEsports.csproj|c:\\users\\xaron\\desktop\\kiddesportsrepo\\kiddesports_experimental\\kiddesports\\resultsscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42AC0B9F-9CF7-CF2A-DEC5-00BBDE39D0EF}|KiddEsports\\KiddEsports.csproj|solutionrelative:kiddesports\\resultsscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,20 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\DataManagement\\Models\\Games.cs",
+              "RelativeDocumentMoniker": "DataManagement\\Models\\Games.cs",
+              "ToolTip": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\DataManagement\\Models\\Games.cs",
+              "RelativeToolTip": "DataManagement\\Models\\Games.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:01:18.107Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GamesScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\KiddEsports\\GamesScreen.xaml.cs",
+              "RelativeDocumentMoniker": "KiddEsports\\GamesScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\KiddEsports\\GamesScreen.xaml.cs",
+              "RelativeToolTip": "KiddEsports\\GamesScreen.xaml.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv5QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:58:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\DataManagement\\DataManager.cs",
+              "RelativeDocumentMoniker": "DataManagement\\DataManager.cs",
+              "ToolTip": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\DataManagement\\DataManager.cs",
+              "RelativeToolTip": "DataManagement\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:48:19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ResultsScreen.xaml.cs",
               "DocumentMoniker": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\KiddEsports\\ResultsScreen.xaml.cs",
               "RelativeDocumentMoniker": "KiddEsports\\ResultsScreen.xaml.cs",
               "ToolTip": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\KiddEsports\\ResultsScreen.xaml.cs",
               "RelativeToolTip": "KiddEsports\\ResultsScreen.xaml.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAwwLoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAKwAAAAAAAAAAAA9wLoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T14:37:55.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T14:37:55.806Z"
             }
           ]
         }

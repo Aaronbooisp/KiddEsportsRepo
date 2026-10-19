@@ -146,7 +146,8 @@ namespace KiddEsports
             isNewEntry = false;
             dgvGames.IsEnabled = false;
 
-            // Assign local selectedGame to the class-wide currentGame variable, so that it can be used in other methods like SaveGameEntry and DeleteSelectedEntry.
+            
+            // Creates a new temporary object which will be used to record new data, and then later used to either save as a new entry or used to replace/overwrite an existing entry.
             currentGame = new Games();
             currentGame.GameId = selectedGame.GameId;
 
