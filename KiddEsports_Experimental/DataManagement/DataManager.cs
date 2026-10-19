@@ -82,18 +82,6 @@ namespace DataManagement
             return connection.Query<Games>(query).ToList();
         }
 
-        public Games GetGameById(int id)
-        {
-            //The query to find our required item using its ID
-            string query = $"SELECT * FROM Categories Where CategoryID = {id}";
-            //Manages the connecion to our database and then closes and disposes of it once we are done.
-            using (var connection = ConnectionBuilder.GetSqlConnection())
-            {
-                //Runs Dapper's query single operation and then maps the results into our Item models
-                return connection.QuerySingle<Games>(query);
-            }
-        }
-
         public void CreateGame(Games games)
         {
             string query = "INSERT INTO Games (GameName, CategoryId) VALUES (@GameName, @CategoryId)";
