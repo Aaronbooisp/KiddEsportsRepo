@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="KiddEsports.ResultsScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:KiddEsports"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="1500" d:Background="White">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"></RowDefinition>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnDelete" Grid.Column="0" HorizontalAlignment="Left" Margin="10" Width="100" Click="btnDelete_Click">DELETE</Button>
+
+            <Label Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">ORDER BY:</Label>
+            <Button x:Name="btnBestTime" Grid.Column="1" HorizontalAlignment= "Center" Margin="10" Width="70" Click="btnOrderByGameAndBestTime_Click">GAME, TIME</Button>
+            <Button x:Name="btnsResults" Grid.Column="1" HorizontalAlignment= "Right" Margin="10" Width="70" >COMP, GAME</Button>
+            <Button x:Name="btnExport" Grid.Column="3" HorizontalAlignment= "Right" Margin="10" Width="100" Click="btnExport_Click">EXPORT</Button>
+
+        </Grid>
+
+        <StackPanel Grid.Column="1" Margin="10">
+            <Label>Search by competitor or game:</Label>
+            <TextBox x:Name="txtSearch" TextChanged="txtSearch_TextChanged"></TextBox>
+
+            <Label>Event Name</Label>
+            <ComboBox x:Name="cboEventName"></ComboBox>
+
+            <Label>Game Played</Label>
+            <ComboBox x:Name="cboGamePlayed"></ComboBox>
+
+            <Label>Competitor</Label>
+            <ComboBox x:Name="cboCompetitor"></ComboBox>
+
+            <Label>Completion Time</Label>
+            <Label>Hours</Label>
+            <TextBox x:Name="txtCompletionHours"></TextBox>
+
+            <Label>Minutes</Label>
+            <TextBox x:Name="txtCompletionMinutes"></TextBox>
+
+            <Label>Seconds</Label>
+            <TextBox x:Name="txtCompletionSeconds"></TextBox>
+
+            <Button x:Name="btnSave" Margin="10" Click="btnSave_Click">SAVE</Button>
+            <Button x:Name="btnClear" Margin="10" Click="btnClear_Click">CLEAR / CANCEL</Button>
+        </StackPanel>
+
+        <DataGrid x:Name="dgvResults" Margin="10" CanUserAddRows="False" IsReadOnly="True" SelectionChanged="dgvResults_SelectionChanged" AutoGeneratingColumn="dgvResults_AutoGeneratingColumn"/>
+
+        <Button x:Name="btnClose" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Margin="10" Width="100" Click="btnClose_Click">CLOSE</Button>
+    </Grid>
+</UserControl>

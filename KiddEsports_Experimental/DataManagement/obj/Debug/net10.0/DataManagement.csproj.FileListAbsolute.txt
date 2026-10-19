@@ -1,0 +1,40 @@
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\bin\Debug\net10.0\DataManagement.deps.json
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\bin\Debug\net10.0\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\bin\Debug\net10.0\DataManagement.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.csproj.AssemblyReference.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.AssemblyInfoInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.AssemblyInfo.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.csproj.CoreCompileInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\refint\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataManagement.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\ref\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\DataManagement\obj\Debug\net10.0\DataMana.47CAD635.Up2Date
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\bin\Debug\net10.0\DataManagement.deps.json
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\bin\Debug\net10.0\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\bin\Debug\net10.0\DataManagement.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.csproj.AssemblyReference.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.AssemblyInfoInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.AssemblyInfo.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.csproj.CoreCompileInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\refint\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\ref\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataMana.47CAD635.Up2Date
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\bin\Debug\net10.0\DataManagement.deps.json
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\bin\Debug\net10.0\DataManagement.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\bin\Debug\net10.0\DataManagement.pdb
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.csproj.AssemblyReference.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.AssemblyInfoInputs.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.AssemblyInfo.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.sourcelink.json
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\refint\DataManagement.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataManagement.pdb
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\ref\DataManagement.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\DataManagement\obj\Debug\net10.0\DataMana.47CAD635.Up2Date

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC0B9F-9CF7-CF2A-DEC5-00BBDE39D0EF}|KiddEsports\\KiddEsports.csproj|c:\\users\\xaron\\desktop\\kiddesportsrepo\\kiddesports_experimental\\kiddesports\\resultsscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC0B9F-9CF7-CF2A-DEC5-00BBDE39D0EF}|KiddEsports\\KiddEsports.csproj|solutionrelative:kiddesports\\resultsscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultsScreen.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\KiddEsports\\ResultsScreen.xaml.cs",
+              "RelativeDocumentMoniker": "KiddEsports\\ResultsScreen.xaml.cs",
+              "ToolTip": "C:\\Users\\xaron\\Desktop\\KiddEsportsRepo\\KiddEsports_Experimental\\KiddEsports\\ResultsScreen.xaml.cs",
+              "RelativeToolTip": "KiddEsports\\ResultsScreen.xaml.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwLoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:37:55.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

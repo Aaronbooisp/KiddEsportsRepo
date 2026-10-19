@@ -1,0 +1,35 @@
+private List<ResultDisplayModel> GetFilteredResults(string searchTerm)
+{
+    // Cleans up the string by the user by removing whitespaces and turning the search term to all lowercase.
+    string term = searchTerm.Trim().ToLower();
+
+    // If search box is empty, return the full list as-is.
+    if (string.IsNullOrWhiteSpace(term))
+    {
+        return resultsList;
+    }
+
+    // Create a List of ResultDisplayModel objects within here to hold the filtered list.
+    List<ResultDisplayModel> filteredList = new List<ResultDisplayModel>();
+
+    // Use a foreach loop to cycle every ResultDisplayModel object in resultsList.
+    foreach (ResultDisplayModel item in resultsList)
+    {
+        // Compares the fields in the current item we are evaluating to the search term.
+        // Checks for a match between our existing list of ResultDisplayModel objects (resultsList) and the entered search term.
+        // Turns every field in the ResultDisplayModel object to lowercase so it can be compared to our string "term" declared earlier. (lowercase to lowercase comparison)
+        // Returns a true or false value depending on whether a ResultDisplayModel object contains the search term or not.
+        bool competitorComparisonMatch = item.Competitor.ToLower().Contains(term);
+        bool gameComparisonMatch = item.GamePlayed.ToLower().Contains(term);
+        bool eventComparisonMatch = item.EventName.ToLower().Contains(term);
+
+        // If either or one of the matches pass and are true, add the filtered item into the filtered list.
+        if (competitorComparisonMatch || gameComparisonMatch || eventComparisonMatch)
+        {
+            filteredList.Add(item);
+        }
+    }
+
+    // Returns out the filteredList to the original caller.
+    return filteredList;
+}

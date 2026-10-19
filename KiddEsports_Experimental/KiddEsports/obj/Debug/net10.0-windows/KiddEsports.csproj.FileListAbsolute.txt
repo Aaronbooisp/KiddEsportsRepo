@@ -1,0 +1,214 @@
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.exe
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.deps.json
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.runtimeconfig.json
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\CompetitorsScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\EventsScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\GamesScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\App.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports_MarkupCompile.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports_MarkupCompile.lref
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\CompetitorsScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\EventsScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\GamesScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\MainWindow.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.g.resources
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.AssemblyInfoInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.AssemblyInfo.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.csproj.CoreCompileInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\refint\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.genruntimeconfig.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\ref\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\ResultsScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\ResultsScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.dll.config
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Dapper.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\System.Threading.RateLimiting.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\bin\Debug\net10.0-windows\DataManagement.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.csproj.AssemblyReference.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports\KiddEsports\obj\Debug\net10.0-windows\KiddEspo.58B75E93.Up2Date
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.exe
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.dll.config
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.deps.json
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.runtimeconfig.json
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Dapper.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\System.Threading.RateLimiting.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\DataManagement.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\DataManagement.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.csproj.AssemblyReference.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\CompetitorsScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\EventsScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\GamesScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\MainWindow.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\ResultsScreen.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\App.g.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports_MarkupCompile.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports_MarkupCompile.lref
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\CompetitorsScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\EventsScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\GamesScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\MainWindow.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\ResultsScreen.baml
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.g.resources
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.AssemblyInfoInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.AssemblyInfo.cs
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.csproj.CoreCompileInputs.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEspo.58B75E93.Up2Date
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\refint\KiddEsports.dll
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.pdb
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.genruntimeconfig.cache
+E:\TAFE TRANSFER files\TAFE JULY 2026\ASSESSMENTS\ICTPRG549\KiddEsports\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\ref\KiddEsports.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.exe
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.dll.config
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.deps.json
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.runtimeconfig.json
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\KiddEsports.pdb
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Dapper.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\System.Threading.RateLimiting.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\DataManagement.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\bin\Debug\net10.0-windows\DataManagement.pdb
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.csproj.AssemblyReference.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\CompetitorsScreen.g.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\EventsScreen.g.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\GamesScreen.g.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\ResultsScreen.g.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports_MarkupCompile.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports_MarkupCompile.lref
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\CompetitorsScreen.baml
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\EventsScreen.baml
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\GamesScreen.baml
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\ResultsScreen.baml
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.g.resources
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.AssemblyInfoInputs.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.AssemblyInfo.cs
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.csproj.CoreCompileInputs.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.sourcelink.json
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEspo.58B75E93.Up2Date
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\refint\KiddEsports.dll
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.pdb
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\KiddEsports.genruntimeconfig.cache
+C:\Users\xaron\Desktop\KiddEsportsRepo\KiddEsports_Experimental\KiddEsports\obj\Debug\net10.0-windows\ref\KiddEsports.dll

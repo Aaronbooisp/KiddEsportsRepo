@@ -1,0 +1,24 @@
+﻿<Window x:Class="KiddEsports.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KiddEsports"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="1250">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel>
+            <Button x:Name="btnCompetitors" Margin="20" Click="btnCompetitors_Click">Competitors</Button>
+            <Button x:Name="btnEvents" Margin="20" Click="btnEvents_Click">Events</Button>
+            <Button x:Name="btnGames" Margin="20" Click="btnGames_Click">Games</Button>
+            <Button x:Name="btnResults" Margin="20" Click="btnResults_Click">Results</Button>
+        </StackPanel>
+
+        <ContentControl x:Name="mainControl" Grid.Column="1"></ContentControl>
+    </Grid>
+</Window>
