@@ -117,32 +117,6 @@ namespace DataManagement
             connection.Execute(query, param);
         }
 
-        // Cleanses each string being passed through here to ensure that there are no nulls or whitespaces so that clean data is being handled when it gets processed.
-        /*
-         * This method is mostly unnecessary as most of the database data modification will be handled through the UI. 
-         * However, the point of this method existing is to account for when data gets externally handled outside of the UI. When that happens, it will be handled here.
-         * 
-         * This method does not have an uppercase and lowercase sanitization logic yet so "RPG" and "rPG" will be treated as distinctly separate categories.
-         * Where it applies: Showing up as 2 different selections in the game category ComboBox. The ComboBox will show both "RPG" and "rPG" as available options.
-         */
-        private List<string> SanitizeCategories(List<string> rawCategories)
-        {
-            // Creates a list of strings to hold the clean data after it has been cleansed.
-            List<string> cleanData = new List<string>();
-
-            // Goes through each string in the untouched category list (rawCategories).
-            foreach (string categoryItem in rawCategories)
-            {
-                // Checks the string, if it is null or just white space. If it is neither, then...
-                if (string.IsNullOrWhiteSpace(categoryItem) is false)
-                {
-                    // Trims white spaces around the string and adds it into the cleanData list to hold it.
-                    cleanData.Add(categoryItem.Trim());
-                }
-            }
-            // Returns the list of clean data to the original caller.
-            return cleanData;
-        }
         #endregion
 
         #region Results
