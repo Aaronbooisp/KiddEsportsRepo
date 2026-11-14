@@ -27,7 +27,6 @@ namespace KiddEsports
         List<ResultDisplayModel> resultsList = new List<ResultDisplayModel>();
         Results currentResult;
         bool isNewEntry = true;
-        string sortState = "Unsorted";
 
         // This will be none by default but will be used to determine how to keep a list in what way.
         // When we need this modified, we will preset its value in the method and immediately use it for comparison.
@@ -35,6 +34,7 @@ namespace KiddEsports
         public ResultsScreen()
         {
             InitializeComponent();
+            SetupComboBoxes();
             RefreshDataGridDisplay();
         }
 
@@ -60,6 +60,31 @@ namespace KiddEsports
             DeleteSelectedEntry();
         }
 
+        /// <summary>
+        /// Method to populate the ComboBoxes with the relevant respective data.
+        /// </summary>
+        private void SetupComboBoxes()
+        {
+            // Populates the EventName ComboBox
+            // Sources all the data in the EventName ComboBox through the dataManager.GetAllEvents method, which returns a list of Event objects.
+            cboEventName.ItemsSource = dataManager.GetAllEvents();
+
+            // This only configures the display to what the user sees on the UI screen.
+            cboEventName.DisplayMemberPath = "EventName";
+
+            // This is actually hidden but is important to handle logical operations in the background, this acts as a referencer.
+            cboEventName.SelectedValuePath = "EventId";
+
+            // Populate GamesPlayed ComboBox
+            cboGamePlayed.ItemsSource = dataManager.GetAllGames();
+            cboGamePlayed.DisplayMemberPath = "GameName";
+            cboGamePlayed.SelectedValuePath = "GameId";
+
+            // Populate Competitors ComboBox
+            cboCompetitor.ItemsSource = dataManager.GetAllCompetitors();
+            cboCompetitor.DisplayMemberPath = "CompetitorName";
+            cboCompetitor.SelectedValuePath = "CompetitorId";
+        }
         private void SaveResultEntry()
         {
             if (AreFieldsValid() is false)
@@ -84,6 +109,7 @@ namespace KiddEsports
             TimeSpan totalTime = new TimeSpan(hours, minutes, seconds);
 
             currentResult.TotalCompletionTime = totalTime.Ticks;
+
             if (isNewEntry)
             {
                 dataManager.CreateResult(currentResult);
@@ -96,32 +122,6 @@ namespace KiddEsports
             }
             ClearFields();
             RefreshDataGridDisplay();
-        }
-
-        /// <summary>
-        /// Method to populate the ComboBoxes with the relevant respective data.
-        /// </summary>
-        private void LoadComboBoxes()
-        {
-            // Populates the EventName ComboBox
-            // Sources all the data in the EventName ComboBox through the dataManager.GetAllEvents method, which returns a list of Event objects.
-            cboEventName.ItemsSource = dataManager.GetAllEvents();
-
-            // This only configures the display to what the user sees on the UI screen.
-            cboEventName.DisplayMemberPath = "EventName";
-
-            // This is actually hidden but is important to handle logical operations in the background, this acts as a referencer.
-            cboEventName.SelectedValuePath = "EventId";
-
-            // Populate GamesPlayed ComboBox
-            cboGamePlayed.ItemsSource = dataManager.GetAllGames();
-            cboGamePlayed.DisplayMemberPath = "GameName";
-            cboGamePlayed.SelectedValuePath = "GameId";
-
-            // Populate Competitors ComboBox
-            cboCompetitor.ItemsSource = dataManager.GetAllCompetitors();
-            cboCompetitor.DisplayMemberPath = "CompetitorName";
-            cboCompetitor.SelectedValuePath = "CompetitorId";
         }
         private void ShowSelectedEntry()
         {
@@ -188,14 +188,9 @@ namespace KiddEsports
 
             resultsList = FilterResultsBySearchTerm(resultsList, txtSearch.Text);
 
-            if (sortState is "orderedByGameAndTime")
-            {
-                resultsList.Sort(CompareByGameAndTime);
-            }
-
             // Then populate the datagrid with whatever branch of resultsList it went through.
             dgvResults.ItemsSource = resultsList;
-            LoadComboBoxes();
+  
             dgvResults.IsEnabled = true;
         }
 
@@ -263,15 +258,9 @@ namespace KiddEsports
             return true;
         }
 
-        private void btnOrderByGameAndBestTime_Click(object sender, RoutedEventArgs e)
-        {
-            // Sets the state to "orderedByGameAndTime" to flag it for future operations. (mostly RefreshDataGridDisplay)
-            // We will do this to delegate the work into the RefreshDataGridDisplay method. This makes it easier to manage overall.
-            sortState = "orderedByGameAndTime";
 
-            RefreshDataGridDisplay();
-        }
 
+  
 
 
 
@@ -300,12 +289,21 @@ namespace KiddEsports
                 return gameComparison;
             }
 
+
             // The code carries on further here if the games are identical, then compare times using the same process. (fastest to slowest)
             return baseValue.TotalCompletionTime.CompareTo(comparedValue.TotalCompletionTime);
         }
 
 
 
+        private void btnOrderByGameAndBestTime_Click(object sender, RoutedEventArgs e)
+        {
+            // Sets the state to "orderedByGameAndTime" to flag it for future operations. (mostly RefreshDataGridDisplay)
+            // We will do this to delegate the work into the RefreshDataGridDisplay method. This makes it easier to manage overall.
+            sortState = "orderedByGameAndTime";
+
+            RefreshDataGridDisplay();
+        }
 
 
         private void btnExport_Click(object sender, RoutedEventArgs e)

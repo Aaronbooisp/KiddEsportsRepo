@@ -9,7 +9,6 @@ namespace DataManagement.Models
         public int GameId { get; set; }
         public int CategoryId { get; set; }
         public string GameName { get; set; } = string.Empty;
-
         public string CategoryName { get; set; } = string.Empty;
     }
 }
