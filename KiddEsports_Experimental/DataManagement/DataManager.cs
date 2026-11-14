@@ -110,11 +110,12 @@ namespace DataManagement
         #region Results
         public List<ResultDisplayModel> GetAllResults()
         {
-            string query = "SELECT Results.ResultId, Results.EventId, Results.GameId, Results.CompetitorId, Events.EventName, Games.GameName AS GamePlayed, Competitors.CompetitorName AS Competitor, Results.TotalCompletionTime " +
-                            "FROM Results " +
-                            "INNER JOIN Events ON Results.EventId = Events.EventId " +
-                            "INNER JOIN Games ON Results.GameId = Games.GameId " +
-                            "INNER JOIN Competitors ON Results.CompetitorId = Competitors.CompetitorId";
+            string query = "SELECT Results.ResultId, Results.EventId, Results.GameId, Results.CompetitorId, Events.EventName, Games.GameName AS GamePlayed, " +
+                           "Competitors.CompetitorName AS Competitor, Results.TotalCompletionTime " +
+                           "FROM Results " +
+                           "INNER JOIN Events ON Results.EventId = Events.EventId " +
+                           "INNER JOIN Games ON Results.GameId = Games.GameId " +
+                           "INNER JOIN Competitors ON Results.CompetitorId = Competitors.CompetitorId";
 
             using var connection = ConnectionBuilder.GetSqlConnection();
 

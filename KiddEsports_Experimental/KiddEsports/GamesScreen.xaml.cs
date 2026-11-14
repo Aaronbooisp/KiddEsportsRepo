@@ -55,6 +55,24 @@ namespace KiddEsports
             System.Windows.Application.Current.Shutdown();
         }
 
+        private void SetupCategoryComboBox()
+        {
+            // Alternatively for the next two lines of code you could also use direct assignment but it only limits usage to within this method only.
+            // cboGameCategory.ItemsSource = dataManager.GetAllCategories();
+
+            // Request all our categories from our data manager and store them in our list
+            categoryList = dataManager.GetAllCategories();
+
+            // Pass the list as the item source of the combo box to set its content
+            cboGameCategory.ItemsSource = categoryList;
+
+            // Tells the combo box which property form the models need to be displayed in 
+            // each combo box option in the dropdown.
+            cboGameCategory.DisplayMemberPath = "CategoryName";
+
+            // Tells the combo box which property to set in its hidden identifier field for each entry
+            cboGameCategory.SelectedValuePath = "CategoryId";
+        }
         private void SaveGameEntry()
         {
             // Validates data fields first. If any validation fails, the method will return early and not proceed with saving.
@@ -63,21 +81,25 @@ namespace KiddEsports
                 return;
             }
 
+            // If it is a new entry, then create a new Games Object
             if (isNewEntry)
             {
                 currentGame = new Games();
             }
 
+            // Clears trailing spaces from the GameName being entered
             currentGame.GameName = txtGameName.Text.Trim();
             currentGame.CategoryId = (int)cboGameCategory.SelectedValue;
 
             if (isNewEntry)
             {
+                // Use the CreateGame method in the dataManager class to create a new game entry in the database
                 dataManager.CreateGame(currentGame);
                 MessageBox.Show("Game entry saved successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
             }
             else
             {
+                // OR if it is not a new entry then use the UpdateGame method in the dataManager class to update an existing game entry in the database
                 dataManager.UpdateGame(currentGame);
                 MessageBox.Show("Game entry updated successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
             }
@@ -86,7 +108,7 @@ namespace KiddEsports
         }
         private void DeleteSelectedEntry()
         {
-            // Checks that the selected item in the DataGrid is a Games object, and binds it to selectedGame. If this check fails, then exit the code early.
+            // Checks that the selected item in the DataGrid is a Games object, and assigns it to selectedGame. If this check fails, then exit the code early with an error message.
             if (dgvGames.SelectedItem is not Games selectedGame)
             {
                 MessageBox.Show("Please select a game to delete.", "No Selection", MessageBoxButton.OK, MessageBoxImage.Warning);
@@ -112,21 +134,6 @@ namespace KiddEsports
             dgvGames.IsEnabled = true;
             isNewEntry = true;
         }
-
-        private void SetupCategoryComboBox()
-        {
-            //Request all our categories from our data manager and store them in our list
-            categoryList = dataManager.GetAllCategories();
-            //Pass the list as the item source of the combo box to set its content
-            cboGameCategory.ItemsSource = categoryList;
-            //Tells the combo box which property form the models need to be displayed in 
-            //each combo box option in the dropdown.
-            cboGameCategory.DisplayMemberPath = "CategoryName";
-            //Tells the combo box which property to set in its hidden identifier field for each entry
-            cboGameCategory.SelectedValuePath = "CategoryId";
-
-        }
-
         private void RefreshDataGridDisplay()
         {
             // Populates the datagrid with data from the GetAllGames method. 
@@ -138,7 +145,7 @@ namespace KiddEsports
         }
         private void ShowSelectedEntry()
         {
-            // Checks that the selected item in the DataGrid is a Games object, and binds it to selectedGame. If this check fails, then exit the code early.
+            // Checks that the selected item in the DataGrid is a Games object, and assigns it to selectedGame. If this check fails, then exit the code early.
             if (dgvGames.SelectedItem is not Games selectedGame)
                 return;
 
@@ -146,12 +153,12 @@ namespace KiddEsports
             isNewEntry = false;
             dgvGames.IsEnabled = false;
 
-            
-            // Creates a new temporary object which will be used to record new data, and then later used to either save as a new entry or used to replace/overwrite an existing entry.
+            // Instantiates a new temporary Games object which will be used to record new data,
+            // and then later used to either save as a new entry or used to replace/overwrite an existing entry.
             currentGame = new Games();
             currentGame.GameId = selectedGame.GameId;
 
-            // Sets the data in the Textbox and Combobox to whatever is in the selectedGame object.
+            // Sets the data in the Textbox and Combobox to whatever is in the "selectedGame" Games object.
             txtGameName.Text = selectedGame.GameName;
             cboGameCategory.SelectedValue = selectedGame.CategoryId;
         }

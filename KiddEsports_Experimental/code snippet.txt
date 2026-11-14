@@ -33,3 +33,23 @@ private List<ResultDisplayModel> GetFilteredResults(string searchTerm)
     // Returns out the filteredList to the original caller.
     return filteredList;
 }
+
+
+
+
+
+
+
+removed the       private void btnOrderByGameAndBestTime_Click(object sender, RoutedEventArgs e)
+      {
+          // Sets the state to "orderedByGameAndTime" to flag it for future operations. (mostly RefreshDataGridDisplay)
+          // We will do this to delegate the work into the RefreshDataGridDisplay method. This makes it easier to manage overall.
+          sortState = "orderedByGameAndTime";
+
+          RefreshDataGridDisplay();
+      }
+method from ResultsScreen.xaml.cs as it is incomplete at the moment and prevents the program from running. Will redo soon.
+
+
+
+Added some additional comments in the SaveGameEntry method in GamesScreen.xaml.cs, explaining the logic path more clearly
