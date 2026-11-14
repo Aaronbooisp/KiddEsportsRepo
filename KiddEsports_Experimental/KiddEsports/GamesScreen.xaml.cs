@@ -103,7 +103,9 @@ namespace KiddEsports
                 dataManager.UpdateGame(currentGame);
                 MessageBox.Show("Game entry updated successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
             }
+            // Clear the textfields
             ClearFields();
+            // Refreshes the datagrid display
             RefreshDataGridDisplay();
         }
         private void DeleteSelectedEntry()
